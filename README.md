@@ -3,6 +3,7 @@
 
 <h2 align="center"> Software Developer <br/></h2> 
 
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
   ### Skills
 <p align="left">
