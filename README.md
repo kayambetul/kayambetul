@@ -32,7 +32,8 @@
 ✍️ <a href="https://medium.com/@betulkayam24/jdbc-i̇le-programlama-412bf9d55347"  style="max-width:100%;">JDBC İle Programlama</a> <br>
 ✍️ <a href="https://medium.com/@betulkayam24/factory-design-pattern-nedir-f3f5c6e98ad1"  style="max-width:100%;">Factory Design Pattern Nedir?</a> <br>
 ✍️ <a href="https://medium.com/@betulkayam24/git-nedir-c6a97caa4870"  style="max-width:100%;">Git Nedir?</a> <br>
-✍️ <a href="https://medium.com/@betulkayam24/git-komutları-ve-kullanımı-nasıldır-61e2d4f86c7f"  style="max-width:100%;">Git Komutları Ve Kullanımı Nasıldır?</a> <br>
+✍️ <a href="https://medium.com/@betulkayam24/git-komutları-ve-kullanımı-nasıldır-61e2d4f86c7f"  style="max-width:100%;">Git Komutları Ve Kullanımı Nasıldır?</a><br>
+
 
 👉️ <a href="https://medium.com/@kadirdemirell"  style="max-width:100%;">Stay Tuned For More</a>
 
