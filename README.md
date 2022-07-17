@@ -28,5 +28,12 @@
 <a href="http://www.github.com/kayambetul"><img src="https://github-readme-stats.vercel.app/api?username=kayambetul&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kayambetul's GitHub stats" /></a>
  <a href="https://github.com/kayambetul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayambetul&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<h3 align="left">Latest Blog Posts</h3>
+✍️ <a href="https://medium.com/@betulkayam24/jdbc-i̇le-programlama-412bf9d55347"  style="max-width:100%;">JDBC İle Programlama</a> <br>
+✍️ <a href="https://medium.com/@betulkayam24/factory-design-pattern-nedir-f3f5c6e98ad1"  style="max-width:100%;">Factory Design Pattern Nedir?</a> <br>
+✍️ <a href="https://medium.com/@betulkayam24/git-nedir-c6a97caa4870"  style="max-width:100%;">Git Nedir?</a> <br>
+✍️ <a href="https://medium.com/@betulkayam24/git-komutları-ve-kullanımı-nasıldır-61e2d4f86c7f"  style="max-width:100%;">Git Komutları Ve Kullanımı Nasıldır?</a> <br>
+
+👉️ <a href="https://medium.com/@kadirdemirell"  style="max-width:100%;">Stay Tuned For More</a>
 
 
